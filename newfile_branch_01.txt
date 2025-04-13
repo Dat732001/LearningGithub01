@@ -1,3 +1,5 @@
 hello
 
 test2
+
+from test 2 to newbranch_test2
