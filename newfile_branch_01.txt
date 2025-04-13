@@ -2,4 +2,8 @@ hello
 
 test2
 
+<<<<<<< HEAD
 test3
+=======
+from test 2 to newbranch_test2
+>>>>>>> newbranch_test2
